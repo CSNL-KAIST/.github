@@ -1,12 +1,8 @@
 # Computational and Systems Neuroscience Lab @ KAIST
 ---
-Dr. Byeongwook Lee is an Assistant Professor in the Department of Brain and Cognitive Sciences at KAIST, specializing in Computational and Systems Neuroscience.
+Dr. Byeongwook Lee’s Computational and Systems Neuroscience Lab at the Korea Advanced Institute of Science and Technology (KAIST) is a research group in the Department of Brain and Cognitive Sciences that builds computational models to reveal the dynamic principles of human cognition. We integrate network science, dynamical systems, and machine learning with real-world neuroimaging and cognitive-task data to quantify how neural activity patterns are organized, maintained, compensated, or disrupted—especially in aging. Our goals are to (1) identify mechanistic biomarkers of healthy brain aging, (2) map individualized trajectories of neurocognitive function, and (3) enable data-driven, personalized interventions for neurodegenerative disorders.
 
-Dr. Lee received his B.S. in Electrical Engineering and his M.S. and Ph.D. in Bio and Brain Engineering from KAIST, where he conducted graduate research under the supervision of Professor Kwang-Hyun Cho on the design principles of complex brain networks. He then completed his postdoctoral training in the Professor Vinod Menon’s laboratory at Stanford University, developing computational models to quantitatively characterize dynamic neural activity during cognitive task performance and applying them to real-world neuroimaging data.
-
-Dr. Lee’s current research focuses on understanding the mechanisms underlying dynamic neurocognitive processes through computational approaches, with a particular emphasis on how these processes are maintained, compensated, or disrupted in aging populations.
-
-Dr. Lee’s ultimate goal is to uncover the dynamic principles of cognitive functions in the brain, thereby advancing our fundamental understanding of the human brain and contributing to the discovery of biomarkers for healthy brain aging and the development of personalized therapeutic strategies for neurodegenerative diseases.
+Led by Dr. Lee—trained at KAIST (B.S. EE; M.S./Ph.D. Bio & Brain Engineering under Prof. Kwang-Hyun Cho) and Stanford University (postdoc with Prof. Vinod Menon)—the lab combines theory-driven modeling with translational applications to advance both fundamental neuroscience and precision brain health.
 
 [Recent Publications][pubs]
 
