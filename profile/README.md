@@ -12,8 +12,6 @@ Dr. Lee’s ultimate goal is to uncover the dynamic principles of cognitive func
 
 [pubs]: https://scholar.google.com.hk/citations?user=AXQooTIAAAAJ
 
-[KAIST Bio][Bio]
+[KAIST Bio][pubs]
 
-[Bio]: [Recent Publications][pubs]
-
-[pubs]: https://scholar.google.com.hk/citations?user=AXQooTIAAAAJ
+[pubs]: [https://scholar.google.com.hk/citations?user=AXQooTIAAAAJ](https://bcs.kaist.ac.kr/sub020101/view/id/235)
